@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dz.9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75972664eaff8e588ff8013497a106bfd93d5974")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dz.9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dz.9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
